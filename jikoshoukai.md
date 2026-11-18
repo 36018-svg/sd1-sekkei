@@ -11,7 +11,9 @@
 ## 趣味
 - アイドルのYoutube見る
 
-  **[Travis Japan](https://starto.jp/s/p/artist/60)**
+  - **[Travis Japan](https://starto.jp/s/p/artist/60)**
+  - **[Aぇ！group](https://starto.jp/s/p/artist/157)**
+  - **[KEYTOlIT](https://jr-official.starto.jp/s/jr/groups/22?ima=0051)**
 - ドラマ
 - 小説
 ## 好きな言葉
