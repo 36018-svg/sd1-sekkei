@@ -33,3 +33,10 @@ flowchart LR
   B -->|はい| C[評価を表示]
   B -->|いいえ| D[未確定と表示]
 ```
+
+20261118
+
+git status
+git add test.md
+git commit -m 変えたよ
+git log --oneline
